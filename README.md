@@ -1,4 +1,4 @@
-# Spatial Analysis of Service Accessibility  
+# 🏙️ Spatial Analysis of Service Accessibility  
 
 This repository contains a set of scripts and data files for analyzing **the average distance to services** and **the distribution of service categories** in selected parishes. The project leverages **Python, GeoPandas, Folium, and OSMnx** to perform spatial analysis and visualization.  
 
@@ -18,6 +18,7 @@ The goal of this project is to:
 | `Service category distribution.ipynb` | Jupyter Notebook analyzing the **distribution of service categories**. |
 | `edificios.csv` | CSV file containing building locations with WKT geometries. |
 | `servicos.csv` | CSV file with service locations and categories. |
+| `servicos_categoria.csv` | CSV file containing additional service category details. |
 | `freguesia.csv` | CSV file defining the boundaries of the selected parishes. |
 
 ## 🛠️ Setup & Dependencies  
